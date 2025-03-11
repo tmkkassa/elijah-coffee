@@ -52,7 +52,7 @@ const Footer = () => {
                 <li>
                   <i className="las la-envelope-open-text" />
                   <em>Email Address :</em>
-                  kaffendev@gmail.com
+                  elijah coffeedev@gmail.com
                 </li>
                 <li>
                   <i className="las la-phone" />
@@ -129,7 +129,7 @@ const Footer = () => {
               className="kf-copyright element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Copyright © 2022 Kaffen. All Rights Reserved.
+              Copyright © 2022 elijah coffee. All Rights Reserved.
             </div>
           </div>
         </div>

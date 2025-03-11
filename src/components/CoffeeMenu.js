@@ -56,7 +56,7 @@ const CoffeeMenu = () => {
             className="kf-title element-anim-1 scroll-animate"
             data-animate="active"
           >
-            Kaffen Coffee Menu
+            elijah coffee Coffee Menu
           </h3>
         </div>
         <div

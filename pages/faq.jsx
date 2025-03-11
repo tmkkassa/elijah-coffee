@@ -5,7 +5,7 @@ import { Accordion } from "react-bootstrap";
 const faqsData = [
   { 
     id: 1, 
-    title: "How Much Customer Do You Like Kaffen?",
+    title: "How Much Customer Do You Like elijah coffee?",
     content: "<p><img src=\"/images/faq_img1.jpg\" class=\"alignleft\" alt /></p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventorem veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed</p><p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium que laudantium, totam rem aperiam, eaque ipsa quae abillo inventore veritatis</p>"
   },
   { 

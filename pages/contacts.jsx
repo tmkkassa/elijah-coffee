@@ -64,12 +64,12 @@ const Contacts = () => {
                   <h5 className="name">Email Address</h5>
                   <ul>
                     <li>
-                      supportkaffen@gmail.com <br />
-                      www.kaffeninfo.net
+                      supportelijah coffee@gmail.com <br />
+                      www.elijah coffeeinfo.net
                     </li>
                     <li>
-                      supportkaffen@gmail.com <br />
-                      www.kaffeninfo.net
+                      supportelijah coffee@gmail.com <br />
+                      www.elijah coffeeinfo.net
                     </li>
                   </ul>
                 </div>

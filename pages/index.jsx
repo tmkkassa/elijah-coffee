@@ -59,7 +59,7 @@ const Index = () => {
                 className="kf-about-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/about_img.png" alt="image" />
+                <img src="images/eli-coffee.png" alt="image" />
               </div>
             </div>
           </div>
@@ -143,7 +143,7 @@ const Index = () => {
               className="kf-title element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Kaffen Popular Coffee Menu
+              elijah coffee Popular Coffee Menu
             </h3>
           </div>
           <div

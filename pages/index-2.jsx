@@ -26,7 +26,7 @@ const Index2 = () => {
                 />
                 <div className="container">
                   <div className="description align-left element-anim-1">
-                    <div className="subtitles">Welcome to the Kaffen</div>
+                    <div className="subtitles">Welcome to the elijah coffee</div>
                     <h2 className="name text-anim-1" data-splitting="chars">
                       Reserve Your <br />
                       Table Today
@@ -53,7 +53,7 @@ const Index2 = () => {
                 />
                 <div className="container">
                   <div className="description align-left element-anim-1">
-                    <div className="subtitles">Welcome to the Kaffen</div>
+                    <div className="subtitles">Welcome to the elijah coffee</div>
                     <h2 className="name text-anim-1" data-splitting="chars">
                       Explore The <br />
                       Lobsters
@@ -80,10 +80,10 @@ const Index2 = () => {
                 />
                 <div className="container">
                   <div className="description align-left element-anim-1">
-                    <div className="subtitles">Welcome to the Kaffen</div>
+                    <div className="subtitles">Welcome to the elijah coffee</div>
                     <h2 className="name text-anim-1" data-splitting="chars">
                       Premium <br />
-                      Meat Kaffen
+                      Meat elijah coffee
                     </h2>
                     <div className="kf-bts">
                       <Link href="menu-restaurant" className="kf-btn">
@@ -212,7 +212,7 @@ const Index2 = () => {
               className="kf-title element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Kaffen Popular Foods Menu
+              elijah coffee Popular Foods Menu
             </h3>
           </div>
           <div
@@ -561,7 +561,7 @@ const Index2 = () => {
                   className="kf-subtitle element-anim-1 scroll-animate"
                   data-animate="active"
                 >
-                  About Kaffen
+                  About elijah coffee
                 </div>
                 <h3
                   className="kf-title element-anim-1 scroll-animate"
