@@ -68,7 +68,9 @@ const Header = () => {
             {/* logo */}
             <div className="kf-logo">
               <Link href="/">
-                <img src="images/logo.png" alt="image" />
+              <div class="d-flex align-items-center gap-2">
+                <img src="images/eli/logo_only.png" alt="image" />
+              </div>
               </Link>
             </div>
           </div>

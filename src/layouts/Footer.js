@@ -52,7 +52,7 @@ const Footer = () => {
                 <li>
                   <i className="las la-envelope-open-text" />
                   <em>Email Address :</em>
-                  elijah coffeedev@gmail.com
+                  elijah coffee@gmail.com
                 </li>
                 <li>
                   <i className="las la-phone" />

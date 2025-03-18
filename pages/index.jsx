@@ -27,7 +27,7 @@ const Index = () => {
                   data-animate="active"
                 >
                   Organic &amp; Fresh Coffee <br />
-                  Provider Center
+                  Provider
                 </h3>
               </div>
               <div
@@ -59,7 +59,7 @@ const Index = () => {
                 className="kf-about-image element-anim-1 scroll-animate"
                 data-animate="active"
               >
-                <img src="images/eli-coffee.png" alt="image" />
+                <img src="images/eli/eli-coffee.png" alt="image" />
               </div>
             </div>
           </div>
@@ -83,7 +83,7 @@ const Index = () => {
                   <div className="icon">
                     <i className="las la-utensils" />
                   </div>
-                  <h5 className="name">Restaurant Menu</h5>
+                  <h5 className="name">Beans</h5>
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@ const Index = () => {
                   <div className="icon">
                     <i className="las la-coffee" />
                   </div>
-                  <h5 className="name">Coffee Menu</h5>
+                  <h5 className="name">Foliage</h5>
                 </div>
               </div>
             </div>
@@ -119,7 +119,7 @@ const Index = () => {
                   <div className="icon">
                     <i className="las la-glass-cheers" />
                   </div>
-                  <h5 className="name">Food Services</h5>
+                  <h5 className="name">Spices</h5>
                 </div>
               </div>
             </div>
@@ -127,7 +127,7 @@ const Index = () => {
         </div>
       </section>
       {/* Section Menu */}
-      <section
+      {/* <section
         className="section kf-menu kf-parallax"
         style={{ backgroundImage: "url(images/category_bg.jpg)" }}
       >
@@ -268,7 +268,7 @@ const Index = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* Section Choose */}
       <section className="section kf-choose section-bg">
         <div className="container">
@@ -311,7 +311,7 @@ const Index = () => {
                   className="kf-title element-anim-1 scroll-animate"
                   data-animate="active"
                 >
-                  New London Coffee Founded For Extraordinary Test
+                  Sourced with Care, Roasted to Perfection.
                 </h3>
               </div>
               <div
@@ -349,7 +349,7 @@ const Index = () => {
                       <img src="images/choose_icon2.png" alt="image" />
                     </div>
                     <div className="desc">
-                      <h5 className="name">100% ISO Certification</h5>
+                      <h5 className="name">100% Certification</h5>
                       <div className="subname">
                         Sed ut perspiciatis unde omnis iste natus error
                         voluptate accusantium doloremque
@@ -564,14 +564,14 @@ const Index = () => {
         </div>
       </section>
       {/* Section Latest Blog */}
-      <section className="section kf-latest-blog section-bg">
+      {/* <section className="section kf-latest-blog section-bg">
         <div className="container">
           <div className="kf-titles align-center">
             <div
               className="kf-subtitle element-anim-1 scroll-animate"
               data-animate="active"
             >
-              Get Every Single Update
+              Get Every Single Update e
             </div>
             <h3
               className="kf-title element-anim-1 scroll-animate"
@@ -668,11 +668,11 @@ const Index = () => {
             </Link>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* Section CTA */}
       <section
         className="section kf-cta kf-parallax"
-        style={{ backgroundImage: "url(images/cta_bg.jpg)" }}
+        style={{ backgroundImage: "url(images/eli/shop1.png)" }}
       >
         <div className="container">
           <div className="row">
